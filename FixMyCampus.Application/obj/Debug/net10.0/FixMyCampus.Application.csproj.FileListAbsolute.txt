@@ -13,3 +13,4 @@
 /Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Application/bin/Debug/net10.0/FixMyCampus.Domain.pdb
 /Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Application/obj/Debug/net10.0/FixMyCampus.Application.csproj.AssemblyReference.cache
 /Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Application/obj/Debug/net10.0/FixMyCam.372041E8.Up2Date
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Application/obj/Debug/net10.0/FixMyCampus.Application.sourcelink.json

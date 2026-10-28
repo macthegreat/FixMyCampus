@@ -37,3 +37,4 @@
 /Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Api/bin/Debug/net10.0/FixMyCampus.Application.pdb
 /Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Api/bin/Debug/net10.0/FixMyCampus.Infrastructure.pdb
 /Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Api/bin/Debug/net10.0/FixMyCampus.Domain.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Api/obj/Debug/net10.0/FixMyCampus.Api.sourcelink.json
