@@ -1,0 +1,17 @@
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Infrastructure.deps.json
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Infrastructure.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Infrastructure.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.AssemblyInfoInputs.cache
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.AssemblyInfo.cs
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/refint/FixMyCampus.Infrastructure.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/ref/FixMyCampus.Infrastructure.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Application.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Domain.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Domain.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/bin/Debug/net10.0/FixMyCampus.Application.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCampus.Infrastructure.csproj.AssemblyReference.cache
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Infrastructure/obj/Debug/net10.0/FixMyCam.49AB7E0D.Up2Date

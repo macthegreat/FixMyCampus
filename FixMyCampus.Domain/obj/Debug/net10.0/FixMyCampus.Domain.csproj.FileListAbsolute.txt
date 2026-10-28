@@ -1,0 +1,11 @@
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/bin/Debug/net10.0/FixMyCampus.Domain.deps.json
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/bin/Debug/net10.0/FixMyCampus.Domain.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/bin/Debug/net10.0/FixMyCampus.Domain.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/FixMyCampus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/FixMyCampus.Domain.AssemblyInfoInputs.cache
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/FixMyCampus.Domain.AssemblyInfo.cs
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/FixMyCampus.Domain.csproj.CoreCompileInputs.cache
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/FixMyCampus.Domain.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/refint/FixMyCampus.Domain.dll
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/FixMyCampus.Domain.pdb
+/Users/administrator/Documents/c#_projects/FixMyCampus/FixMyCampus.Domain/obj/Debug/net10.0/ref/FixMyCampus.Domain.dll
